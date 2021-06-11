@@ -22,4 +22,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = return funkyFunction()
+var theFunk = funkyFunction()
